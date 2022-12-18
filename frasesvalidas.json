@@ -1,0 +1,48 @@
+{
+    "frases":[
+       {
+          "frase":"No os diré no lloréis, pues no todas las lágrimas son amargas",
+          "autor":"Gandalf el Blanco"
+       },
+       {
+          "frase":"Jamás pensé que moriría peleando junto a un elfo",
+          "autor":"Gimli"
+       },
+       {
+          "frase":"Antes compartiría una vida contigo que enfrentarme a todas las edades de este mundo sola",
+          "autor":"Arwen"
+       },
+       {
+          "frase":"Sólo tú puedes decidir qué hacer con el tiempo que se te ha dado",
+          "autor":"Galadriel"
+       },
+       {
+          "frase":"No te apresures, pues, en adjudicar muerte o juicio, pues ni aún los más sabios pueden discernir esos extremos",
+          "autor":"Gandalf el Gris"
+       },
+       {
+          "frase":"Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone",
+          "autor":"Gandalf el Gris"
+       },
+       {
+          "frase":"Hasta la persona mas pequeña puede cambiar el curso del futuro",
+          "autor":"Galadriel"
+       },
+       {
+          "frase":"No conozco a la mitad de vosotros ni la mitad de lo que desearía, y lo que deseo es menos de la mitad de lo que la mitad merecéis",
+          "autor":"Bilbo Bolson"
+       },
+       {
+          "frase":"Mii tesssoroo",
+          "autor":"Gollum"
+       },
+       {
+          "frase":"Quédate con tus repugnantes papas",
+          "autor":"Gollum"
+       },
+       {
+          "frase":"No habrá amanecer para los hombres",
+          "autor":"Saruman el Blanco"
+       }
+    ]
+ }
